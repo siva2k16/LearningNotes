@@ -6,6 +6,10 @@ Keras Notes
 CNN Notes
 https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/Part%20I%20-%20Convolution%20Operations/ConvNets.ipynb
 
+Python
+https://github.com/snrazavi/Machine-Learning-in-Python-Workshop
+https://github.com/snrazavi/Machine-Learning-in-Python-Workshop/tree/master/python%20basics
+
 
 NLP Notes
 https://github.com/PracticumAI/nlp
@@ -24,3 +28,6 @@ Recommendation-systems
 https://github.com/piyushpathak03/Recommendation-systems
 
 
+DL Notes
+https://github.com/PracticumAI/rnn
+https://github.com/PracticumAI/nlp
