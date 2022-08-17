@@ -1,5 +1,8 @@
 Python Notes
 https://github.com/snrazavi/Machine-Learning-in-Python-Workshop/tree/master/python%20basics
+https://github.com/faif/python-patterns
+https://python-patterns.guide/
+https://www.geeksforgeeks.org/python-design-patterns/
 
 Keras Notes
 https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/workshops
