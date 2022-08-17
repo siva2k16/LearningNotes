@@ -2,6 +2,8 @@ Python Notes
 https://github.com/snrazavi/Machine-Learning-in-Python-Workshop/tree/master/python%20basics
 
 Keras Notes
+https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/workshops
+
 
 CNN Notes
 https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/Part%20I%20-%20Convolution%20Operations/ConvNets.ipynb
@@ -31,3 +33,4 @@ https://github.com/piyushpathak03/Recommendation-systems
 DL Notes
 https://github.com/PracticumAI/rnn
 https://github.com/PracticumAI/nlp
+https://m2dsupsdlclass.github.io/lectures-labs/
