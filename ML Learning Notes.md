@@ -1,3 +1,5 @@
+https://github.com/eugeneyan/applied-ml
+
 Python Notes
 https://github.com/snrazavi/Machine-Learning-in-Python-Workshop/tree/master/python%20basics
 https://github.com/faif/python-patterns
