@@ -39,3 +39,6 @@ DL Notes
 https://github.com/PracticumAI/rnn
 https://github.com/PracticumAI/nlp
 https://m2dsupsdlclass.github.io/lectures-labs/
+
+Segmentation Projects
+https://github.com/divamgupta/image-segmentation-keras
