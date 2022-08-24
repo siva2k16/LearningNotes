@@ -3,6 +3,14 @@ https://github.com/eugeneyan/applied-ml
 **Python Notes**
 
 https://github.com/snrazavi/Machine-Learning-in-Python-Workshop/tree/master/python%20basics
+https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial17_if_else_statements.py
+https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial18_automating_using_while_loops.py
+https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial19_automating_using_for_loops.py
+https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial16_data_types_in_python.py
+https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial15_numpy_arrays.py
+https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial12_lists.py
+https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial13_tuples.py
+https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial14_dictionaries.py
 https://github.com/faif/python-patterns
 https://python-patterns.guide/
 https://www.geeksforgeeks.org/python-design-patterns/
