@@ -40,6 +40,8 @@ https://github.com/PracticumAI/nlp
 **Workshop Notes**
 
 https://github.com/snrazavi/Machine-Learning-in-Python-Workshop
+https://github.com/bnsreenu/python_for_microscopists
+
 
 **DL Notes and Lectures**
 
