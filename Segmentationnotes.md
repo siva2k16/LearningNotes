@@ -1,5 +1,21 @@
 
-GAN Notes
+**GAN Notes**
+
+**Leverage dataset with a custom model for neck, background, skin**
+
+https://github.com/switchablenorms/CelebAMask-HQ
+skin, nose, eyes, eyebrows, ears, mouth, lip, hair, hat, eyeglass, earring, necklace, neck, and cloth.
+Label list        
+0: 'background'    1: 'skin'    2: 'nose'  3: 'eye_g'    4: 'l_eye'    5: 'r_eye'    6: 'l_brow'    7: 'r_brow'    8: 'l_ear'    9: 'r_ear'    10: 'mouth'    11: 'u_lip'   12: 'l_lip'    13: 'hair'    14: 'hat'    15: 'ear_r'    16: 'neck_l'    17: 'neck'   18: 'cloth'    
+
+**Create Custom Masks**
+
+https://github.com/Priyansi/eyes-lips-segmentation/blob/main/make_masks.py
+https://github.com/Priyansi/eyes-lips-segmentation
+https://github.com/Priyansi/eyes-lips-segmentation/blob/main/deeplabv3_implementation.ipynb
+https://github.com/Priyansi/eyes-lips-segmentation/blob/main/unet_implementation.ipynb
+
+
 **StyleGAN-Keras**
 
 https://github.com/manicman1999/StyleGAN-Keras
