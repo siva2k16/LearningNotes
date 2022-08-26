@@ -11,6 +11,11 @@ https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutori
 https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial12_lists.py
 https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial13_tuples.py
 https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial14_dictionaries.py
+https://github.com/vwendy/PythonDataScienceHandbook/tree/master/notebooks
+https://github.com/springboard-curriculum/DataScienceGuidedCapstone/blob/master/Notebooks/02_data_wrangling.ipynb
+https://github.com/springboard-curriculum/DataScienceGuidedCapstone/blob/master/Notebooks/03_exploratory_data_analysis.ipynb
+https://github.com/springboard-curriculum/DataScienceGuidedCapstone/blob/master/Notebooks/04_preprocessing_and_training.ipynb
+https://github.com/springboard-curriculum/DataScienceGuidedCapstone/blob/master/Notebooks/05_modeling.ipynb
 https://github.com/faif/python-patterns
 https://python-patterns.guide/
 https://www.geeksforgeeks.org/python-design-patterns/
