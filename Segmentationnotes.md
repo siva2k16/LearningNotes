@@ -62,6 +62,9 @@ https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite
 **Hair_Segmentation_Keras**
 
 https://github.com/ItchyHiker/Hair_Segmentation_Keras
+https://github.com/divamgupta/image-segmentation-keras
+https://github.com/qubvel/segmentation_models/blob/master/examples/binary%20segmentation%20(camvid).ipynb
+
 
 **Human Skin Detection Using RGB, HSV and YCbCr Color Models**
 
@@ -74,3 +77,8 @@ https://colab.research.google.com/github/timsainb/tensorflow2-generative-models/
 **StyleGAN-Keras**
 
 https://github.com/manicman1999/StyleGAN-Keras
+
+
+**YOLOv7 | Instance Segmentation on Custom Dataset**
+https://www.youtube.com/watch?v=qej73NGDQfo
+
