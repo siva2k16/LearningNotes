@@ -14,3 +14,5 @@ https://ravisystemdesign.substack.com/p/blockchain-fundamentals-and-smart
 
 https://ravisystemdesign.substack.com/p/proof-of-work-bitcoins-consensus
 
+**system design notes**
+https://media-exp1.licdn.com/dms/document/C561FAQFP1u6UgUQS_g/feedshare-document-pdf-analyzed/0/1661777258864?e=1662595200&v=beta&t=dSEFJxke_pZGbmLJjdKE2UkZewzR_7pWJxGKfSu6xHQ
