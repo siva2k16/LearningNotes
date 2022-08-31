@@ -20,6 +20,12 @@ https://github.com/faif/python-patterns
 https://python-patterns.guide/
 https://www.geeksforgeeks.org/python-design-patterns/
 
+**Python Colorful Book**
+
+https://media-exp1.licdn.com/dms/document/C561FAQGL1_6hMcW5gA/feedshare-document-pdf-analyzed/0/1661922215276?e=1662595200&v=beta&t=jPWEPGvjBwTb0MlTkVLYs_SXLbsz7J4n4jMjnIA5Ows
+
+
+
 **Keras Notes**
 
 https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/workshops
