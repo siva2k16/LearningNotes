@@ -26,3 +26,8 @@ https://nbviewer.org/github/pycaret/pycaret/tree/master/examples/time_series/for
 https://nbviewer.org/github/pycaret/pycaret/tree/master/examples/time_series/forecasting/
 
 https://unit8co.github.io/darts/
+
+MAPIE: an open-source library for distribution-free uncertainty quantification
+
+https://mapie.readthedocs.io/en/latest/examples_regression/4-tutorials/plot_ts-tutorial.html
+
