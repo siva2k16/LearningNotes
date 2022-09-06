@@ -14,3 +14,7 @@ https://github.com/pyladies-bcn/spacy-workshop/blob/master/01_spacy_intro.ipynb
 https://github.com/geoffbacon/nlp-with-nltk-spacy/blob/master/04-spaCy.ipynb
 
 https://github.com/geoffbacon/nlp-with-nltk-spacy
+
+1. Key word or key phrase extraction methods like RAKE or YAKE
+2. Key word extraction methods with transformer embeddings like KeyBERT
+3. Topic models like LDA and BERTopic which uses transformers and c-TF-IDF
