@@ -82,3 +82,14 @@ https://github.com/manicman1999/StyleGAN-Keras
 **YOLOv7 | Instance Segmentation on Custom Dataset**
 https://www.youtube.com/watch?v=qej73NGDQfo
 
+
+**Reference Models**
+
+https://github.com/bnsreenu/python_for_microscopists/blob/master/222_working_with_large_data_that_does_not_fit_memory_semantic_segm/222_unet_loading_data_from_drive.py
+https://github.com/bnsreenu/python_for_microscopists/blob/master/231_234_BraTa2020_Unet_segmentation/234_train_brats2020_V5.0.py
+https://github.com/bnsreenu/python_for_microscopists/blob/master/231_234_BraTa2020_Unet_segmentation/234_train_brats2020_V5.0.py
+https://github.com/bnsreenu/python_for_microscopists/blob/master/231_234_BraTa2020_Unet_segmentation/233_custom_datagen.py
+https://github.com/bnsreenu/python_for_microscopists/blob/master/231_234_BraTa2020_Unet_segmentation/simple_3d_unet.py
+https://github.com/bnsreenu/python_for_microscopists/blob/master/231_234_BraTa2020_Unet_segmentation/232_brats2020_get_data_ready.py
+
+
