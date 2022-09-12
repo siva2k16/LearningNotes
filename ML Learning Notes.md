@@ -19,6 +19,7 @@ https://github.com/springboard-curriculum/DataScienceGuidedCapstone/blob/master/
 https://github.com/faif/python-patterns
 https://python-patterns.guide/
 https://www.geeksforgeeks.org/python-design-patterns/
+https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists
 
 **Python Colorful Book**
 
@@ -76,3 +77,5 @@ https://m2dsupsdlclass.github.io/lectures-labs/
 **Segmentation Projects**
 
 https://github.com/divamgupta/image-segmentation-keras
+
+
