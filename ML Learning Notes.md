@@ -20,6 +20,7 @@ https://github.com/faif/python-patterns
 https://python-patterns.guide/
 https://www.geeksforgeeks.org/python-design-patterns/
 https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists
+FASTAPI - https://github.com/zhanymkanov/fastapi-best-practices
 
 **Python Colorful Book**
 
