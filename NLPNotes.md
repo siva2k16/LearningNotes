@@ -21,15 +21,19 @@ https://github.com/geoffbacon/nlp-with-nltk-spacy
 
 NLP and Elastic Search
 NLP & Elasticsearch powered product search
+
 https://github.com/viko-ai/nlp-search-poc
 
 ElasticSearch is a search engine based on Lucene.
 ElasticSearch uses parts of NLP (e.g., tokenization and stemming)
 
 Natural language processing (NLP) is a field of computer science, artificial intelligence, and computational linguistics.
+
 https://www.viko.co.uk/blog/nlp-full-text-search/
+
 Full text search allows the user to type anything
 NLP/NER perspective, we treat like attributes
 
 https://github.com/o19s/hello-nlp
+
 About A natural language search microservice
