@@ -87,3 +87,5 @@ Link: https://bit.ly/moreiter
 
 26) Pendulum: Intuitive date-time manipulations in Python.
 Link: https://bit.ly/py-pendulum
+
+https://pypi.org/project/pyarmor/
