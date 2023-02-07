@@ -1,4 +1,6 @@
 **MLOPs**
+NannyML is an open-source python library that allows you to estimate post-deployment model performance (without access to targets), detect data drift, and intelligently link data drift alerts back to changes in model performance
+https://github.com/NannyML/nannyml
 
 https://ml-ops.org/
 AWS MLOps - https://github.com/aws-samples/amazon-sagemaker-mlops-workshop
