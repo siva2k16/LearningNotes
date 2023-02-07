@@ -2,6 +2,18 @@
 NannyML is an open-source python library that allows you to estimate post-deployment model performance (without access to targets), detect data drift, and intelligently link data drift alerts back to changes in model performance
 https://github.com/NannyML/nannyml
 
+Analyze their SDK for ideas / features - https://github.com/allegroai/clearml-agenthttps://github.com/allegroai/clearml#clearml-experiment-managerhttps://github.com/allegroai/clearml-serving
+https://clear.ml/blog/how-to-contribute-to-clearml/
+
+MLflow is an open source platform for managing the end-to-end machine learning lifecycle. It tackles four primary functions:
+https://mlflow.org/docs/latest/index.html
+
+Evidently is an open-source Python library for data scientists and ML engineers.
+It helps evaluate, test, and monitor the performance of ML models from validation to production.
+https://www.evidentlyai.com/
+
+
+
 https://ml-ops.org/
 AWS MLOps - https://github.com/aws-samples/amazon-sagemaker-mlops-workshop
 Chinese MLOps - https://github.com/hongkunyoo/mlops-
