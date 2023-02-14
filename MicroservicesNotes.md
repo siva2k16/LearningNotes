@@ -1,3 +1,9 @@
+Large-scale Microservices based SAAS enterprise application
+ML code and application development interchangeably
+RESTful APIs for internal and partner consumption
+End-to-end ownership of microservices
+Flask / React based application
+
 **Principles Of The Microservice Architecture (Part 1)**
 
 https://ravisystemdesign.substack.com/p/principles-of-the-microservice-architecture
