@@ -44,3 +44,13 @@ https://arxiv.org/pdf/2102.06288.pdf
 **NIPS 2016 Tutorial: Generative Adversarial Networks**
 https://arxiv.org/pdf/1701.00160.pdf
 
+**Good Experiments on Tryon**
+https://www.youtube.com/watch?v=ELHjFyR4VIs
+https://blog.gofynd.com/mediapipe-with-custom-tflite-model-d3ea0427b3c1
+https://play.google.com/store/apps/details?id=com.fynd.ficto&pli=1
+
+**Tryon Projects**
+portrait-segmentation-mediapipe
+https://github.com/SwatiModi/portrait-segmentation-mediapipe
+https://github.com/SwatiModi/virtual-background-app
+
