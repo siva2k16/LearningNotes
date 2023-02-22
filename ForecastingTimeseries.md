@@ -31,3 +31,6 @@ MAPIE: an open-source library for distribution-free uncertainty quantification
 
 https://mapie.readthedocs.io/en/latest/examples_regression/4-tutorials/plot_ts-tutorial.html
 
+sktime A unified interface for machine learning with time series
+
+https://github.com/sktime/sktime
