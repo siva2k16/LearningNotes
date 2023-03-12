@@ -27,10 +27,21 @@ https://nbviewer.org/github/pycaret/pycaret/tree/master/examples/time_series/for
 
 https://unit8co.github.io/darts/
 
-MAPIE: an open-source library for distribution-free uncertainty quantification
-
+**MAPIE: an open-source library for distribution-free uncertainty quantification**
 https://mapie.readthedocs.io/en/latest/examples_regression/4-tutorials/plot_ts-tutorial.html
 
-sktime A unified interface for machine learning with time series
-
+**sktime A unified interface for machine learning with time series**
 https://github.com/sktime/sktime
+
+
+**PyAF or Python Automatic Forecasting is an open-source Python package to automatically develop time-series forecasting models (either univariate or with exogenous data). **
+https://github.com/antoinecarme/pyaf
+
+**StatsForecast is a Python package that provides a collection of univariate time-series Forecasting models.**
+https://github.com/Nixtla/statsforecast
+
+**Darts**
+**Pyflux**
+**Kats (Kits to Analyze Time Series)**
+**TSFRESH**
+
