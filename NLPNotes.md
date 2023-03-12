@@ -37,3 +37,8 @@ NLP/NER perspective, we treat like attributes
 https://github.com/o19s/hello-nlp
 
 About A natural language search microservice
+
+
+**Haystack**
+**Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs**
+https://github.com/deepset-ai/haystack#beginner-quick-demo
