@@ -16,3 +16,9 @@ https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considera
 https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/overview?source=recommendations
 
 https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models
+
+https://dret.github.io/guidelines/
+https://integration-services.berkeley.edu/integration-competency-center/api-best-practices
+https://cloud.google.com/apis/design/
+https://github.com/adidas/api-guidelines
+https://apistylebook.com/design/guidelines/
