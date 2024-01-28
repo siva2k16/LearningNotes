@@ -12,7 +12,8 @@ Evidently is an open-source Python library for data scientists and ML engineers.
 It helps evaluate, test, and monitor the performance of ML models from validation to production.
 https://www.evidentlyai.com/
 
-
+MLOps - https://valohai.com/, https://www.determined.ai/
+https://github.com/goenning/google-indexing-script
 
 https://ml-ops.org/
 AWS MLOps - https://github.com/aws-samples/amazon-sagemaker-mlops-workshop
